@@ -5,7 +5,7 @@ function function1() {
 }
 // Write code above this line
 function function2() {
-    var result ="";
+    var result = "";
     if (typeof myGlobalVariable != "undefined") {
         result += "myGlobalVariable: " + myGlobalVariable;
     }
